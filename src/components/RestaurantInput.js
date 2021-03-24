@@ -56,6 +56,7 @@ const mapDispatchToProps = dispatch => {
     }
   }
 }
+//You have to pass in the instance of a "restaurant" 
 
 
 //connect this component by wrapping RestaurantInput below
